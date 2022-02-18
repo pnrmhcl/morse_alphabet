@@ -1,0 +1,12 @@
+C:\Users\Berkay\Desktop\Fly\MorseFlyweight\bin\Debug\MorseFlyweight.exe.config
+C:\Users\Berkay\Desktop\Fly\MorseFlyweight\obj\Debug\MorseFlyweight.exe
+C:\Users\Berkay\Desktop\Fly\MorseFlyweight\obj\Debug\MorseFlyweight.pdb
+C:\Users\Samsung\Desktop\Fly\MorseFlyweight\bin\Debug\MorseFlyweight.exe.config
+C:\Users\Samsung\Desktop\Fly\MorseFlyweight\obj\Debug\MorseFlyweight.exe
+C:\Users\Samsung\Desktop\Fly\MorseFlyweight\obj\Debug\MorseFlyweight.pdb
+C:\Users\Samsung\Desktop\Fly\MorseFlyweight\bin\Debug\MorseFlyweight.exe
+C:\Users\Samsung\Desktop\Fly\MorseFlyweight\bin\Debug\MorseFlyweight.pdb
+C:\Users\Samsung\Desktop\Fly\MorseFlyweight\obj\Debug\Fly.csprojResolveAssemblyReference.cache
+C:\Users\Samsung\Desktop\Fly\MorseFlyweight\obj\Debug\MorseFlyweight.Form1.resources
+C:\Users\Samsung\Desktop\Fly\MorseFlyweight\obj\Debug\MorseFlyweight.Properties.Resources.resources
+C:\Users\Samsung\Desktop\Fly\MorseFlyweight\obj\Debug\Fly.csproj.GenerateResource.Cache

@@ -1,0 +1,15 @@
+C:\Users\Samsung\Desktop\Fly\MorseFlyweight\bin\Debug\MorseFlyweight.exe.config
+C:\Users\Samsung\Desktop\Fly\MorseFlyweight\bin\Debug\MorseFlyweight.exe
+C:\Users\Samsung\Desktop\Fly\MorseFlyweight\bin\Debug\MorseFlyweight.pdb
+C:\Users\Samsung\Desktop\Fly\MorseFlyweight\obj\Debug\MorseFlyweight.Form1.resources
+C:\Users\Samsung\Desktop\Fly\MorseFlyweight\obj\Debug\MorseFlyweight.Properties.Resources.resources
+C:\Users\Samsung\Desktop\Fly\MorseFlyweight\obj\Debug\FLYW.csproj.GenerateResource.Cache
+C:\Users\Samsung\Desktop\Fly\MorseFlyweight\obj\Debug\MorseFlyweight.exe
+C:\Users\Samsung\Desktop\Fly\MorseFlyweight\obj\Debug\MorseFlyweight.pdb
+C:\Users\Samsung\Desktop\PınarMıhcıoğlu 18010501036\MorseFlyweight\bin\Debug\MorseFlyweight.exe.config
+C:\Users\Samsung\Desktop\PınarMıhcıoğlu 18010501036\MorseFlyweight\obj\Debug\MorseFlyweight.exe
+C:\Users\Samsung\Desktop\PınarMıhcıoğlu 18010501036\MorseFlyweight\obj\Debug\MorseFlyweight.pdb
+C:\Users\Samsung\Desktop\PınarMıhcıoğlu 18010501036\MorseFlyweight\obj\Debug\FLYW.csprojResolveAssemblyReference.cache
+C:\Users\Samsung\Desktop\PınarMıhcıoğlu 18010501036\MorseFlyweight\obj\Debug\MorseFlyweight.Form1.resources
+C:\Users\Samsung\Desktop\PınarMıhcıoğlu 18010501036\MorseFlyweight\obj\Debug\MorseFlyweight.Properties.Resources.resources
+C:\Users\Samsung\Desktop\PınarMıhcıoğlu 18010501036\MorseFlyweight\obj\Debug\FLYW.csproj.GenerateResource.Cache
